@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/andorid  open/AndroidStudioProjects/DataStorageDemo/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/andorid  open/AndroidStudioProjects/DataStorageDemo/app/src/main/res/layout/activity_main.xml" value="0.15625" />
+        <entry key="..\:/andorid  open/AndroidStudioProjects/DataStorageDemo/sqllit_librarydemo/src/main/res/layout/activity_add_book.xml" value="0.25364583333333335" />
+        <entry key="..\:/andorid  open/AndroidStudioProjects/DataStorageDemo/sqllit_librarydemo/src/main/res/layout/activity_main.xml" value="0.2126865671641791" />
+        <entry key="..\:/andorid  open/AndroidStudioProjects/DataStorageDemo/sqllit_librarydemo/src/main/res/layout/addbook.xml" value="0.1" />
+        <entry key="..\:/andorid  open/AndroidStudioProjects/DataStorageDemo/sqllit_librarydemo/src/main/res/layout/addcategory.xml" value="0.1" />
+        <entry key="..\:/andorid  open/AndroidStudioProjects/DataStorageDemo/sqllit_librarydemo/src/main/res/layout/layout_listview.xml" value="0.20802919708029197" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
